@@ -83,7 +83,7 @@ git clone https://github.com/yourusername/Smart-Hostel-Network-Design-Cisco-Pack
 3. Open the following file:
 
 ```
-PacketTracer/hostel.pkt
+hostel.pkt
 ```
 
 4. Wait for the simulation to initialize.
