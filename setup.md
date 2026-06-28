@@ -33,11 +33,6 @@ or simply download the repository as a ZIP file and extract it.
 
 ## 3. Open the Project
 
-Navigate to:
-
-```
-PacketTracer/
-```
 
 Open
 
@@ -189,31 +184,6 @@ Inter-switch VLAN communication functions correctly.
 Generate network activity.
 
 Verify that logs are received by the Syslog Server.
-
----
-
-# Project Files
-
-```
-PacketTracer/
-└── hostel.pkt
-
-Documentation/
-├── Project_Report.pdf
-└── Presentation.pdf
-
-Images/
-├── topology.png
-├── dhcp-test.png
-├── dns-test.png
-├── vlan-test.png
-├── acl-test.png
-├── webserver-test.png
-├── wireless-test.png
-├── guest-test.png
-├── syslog-test.png
-└── router-interfaces.png
-```
 
 ---
 
