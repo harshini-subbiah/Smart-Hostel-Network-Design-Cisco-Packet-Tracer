@@ -63,8 +63,6 @@ A Cisco Packet Tracer-based enterprise hostel network that demonstrates VLAN seg
 
 ---
 
----
-
 ## Requirements
 
 - Cisco Packet Tracer 8.0 or later
