@@ -110,11 +110,9 @@ The following functionality has been successfully tested:
 
 ---
 
----
-
 ## Author
 
-**Harshini S**
+Harshini S
 
 ---
 
