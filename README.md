@@ -110,35 +110,6 @@ The following functionality has been successfully tested:
 
 ---
 
-## Learning Outcomes
-
-This project demonstrates practical implementation of:
-
-- Enterprise Network Design
-- VLAN Configuration
-- Router Configuration
-- DHCP Configuration
-- DNS Configuration
-- ACL Security
-- Wireless Networking
-- Network Segmentation
-- Inter-VLAN Routing
-- Network Troubleshooting
-- Cisco Packet Tracer Simulation
-
----
-
----
-
-## Future Improvements
-
-- Add redundancy using HSRP or VRRP.
-- Configure dynamic routing protocols such as OSPF.
-- Implement IPv6 addressing.
-- Add firewall simulation.
-- Configure VPN connectivity.
-- Enable SNMP monitoring.
-
 ---
 
 ## Author
